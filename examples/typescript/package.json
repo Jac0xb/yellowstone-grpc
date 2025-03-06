@@ -8,7 +8,7 @@
   "homepage": "https://triton.one",
   "dependencies": {
     "yargs": "^17.6.2",
-    "@triton-one/yellowstone-grpc": "file:../../yellowstone-grpc-client-nodejs"
+    "@triton-one/yellowstone-grpc": "3.0.0"
   },
   "scripts": {
     "build": "tsc -p .",
